@@ -1,22 +1,10 @@
 # guac-is-extra
 This is a simple Node app with an Express API for returning taco recipes.
 
-## Project setup
-```bash
-yarn install
-```
+Note: this API is running in a free Heroku dyno so it may take a minute to spin up, be patient 😌
 
-## Running the application
-```bash
-node server.js
-```
 
-## Running the tests
-```bash
-yarn test
-```
-
-## Functionality
+## Using the public API
 
 This API only has a single GET request at the root `/`. This will return all the recipe data.
 
@@ -24,36 +12,59 @@ This API only has a single GET request at the root `/`. This will return all the
 To filter recipes by name, use the `name` query parameter
 
 ```
-GET /?name="fish tacos"
+GET https://guac-is-extra.herokuapp.com/?name=fish
 ```
 
 ### Filter recipes by included ingredients
 To filter recipes by included ingredients, use the `includeIngredients` query parameter
 
 ```
-GET /?includeIngredients="pork"
+GET https://guac-is-extra.herokuapp.com/?includeIngredients=pork
 ```
 
 To filter by more than one ingredient, comma separate them. Note: this does an OR query returning recipes that have any of the comma separated ingredients.
 
 ```
-GET /?includeIngredients="pork,bacon,ham"
+GET https://guac-is-extra.herokuapp.com/?includeIngredients=pork,bacon,ham
 ```
 
 ### Filter recipes by excluded ingredients
 To filter recipes by excluded ingredients, use the `excludeIngredients` query parameter. This will return recipes that do not included the filtered ingredient.
 
 ```
-GET /?excludeIngredients="pork"
+GET https://guac-is-extra.herokuapp.com/?excludeIngredients=pork
 ```
 
 To filter by more than one ingredient, comma separate them. Note: this does an OR query returning recipes that don't have one or more of the comma separated ingredients.
 
 ```
-GET /?excludeIngredients="pork,bacon,ham"
+GET https://guac-is-extra.herokuapp.com/?excludeIngredients=pork,bacon,ham
 ```
 
-## Adding recipes
+## Contributing
+
+If you want to contribute to this project, below you will find everything you need.
+
+### Project setup
+This project uses [Yarn](https://yarnpkg.com/) for its package manager.
+
+```bash
+yarn install
+```
+
+### Running the application
+```bash
+node server.js
+```
+
+### Running the tests
+```bash
+yarn test
+```
+
+### Adding recipes
+If you'd like to add your taco recipe, pull requests are welcome.
+
 To add recipes, add an object to the array of data in the `recipes.json` file with the following shape
 ```json
 {
@@ -74,7 +85,7 @@ To add recipes, add an object to the array of data in the `recipes.json` file wi
 }
 ```
 
-## Deploying an update
+### Deploying an update
 This application is deployed to Heroku
 
 Make sure you are logged into the Tandem team account in the CLI
@@ -97,7 +108,8 @@ And make sure you don't forget to push your changes to the Github remote as well
 git push origin head
 ```
 
-## Technologies used
+### Technologies used
+- [Yarn](https://yarnpkg.com/)
 - [Express](https://expressjs.com/)
 - [Mocha](https://mochajs.org/)
 - [expect.js](https://github.com/Automattic/expect.js)
