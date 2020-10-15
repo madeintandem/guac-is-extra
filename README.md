@@ -80,7 +80,7 @@ To add recipes, add an object to the array of data in the `recipes.json` file wi
   "directions": [
     "step by step",
     "instructions to prepare",
-    "this taco recipe
+    "this taco recipe"
   ]
 }
 ```

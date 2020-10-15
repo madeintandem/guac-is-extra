@@ -1,198 +1,758 @@
 [
   {
-    "name": "Fish Tacos", 
-    "ingredients": [ 
-      {
-        "quantity": "1 cup",
-        "name": "all-purpose flour",
-        "preparation": null
-      },
-      {
- 
-        "quantity": "2 tablespoons",
-        "name": "cornstarch",
-        "preparation": null
-      },
-      {
- 
-        "quantity": "1 teaspoon",
-        "name": "baking powder",
-        "preparation": null
-      },
-      {
- 
-        "quantity": "1/2 teaspoon",
-        "name": "salt",
-        "preparation": null
-      },
-      {
-        "quantity": "1",
-        "name": "egg",
-        "preparation": null
-      },
-      {
-        "quantity": "1 cup",
-        "name": "beer",
-        "preparation": null
-      },
-      {
-        "quantity": "1/2 cup",
-        "name": "plain yogurt",
-        "preparation": null
-      },
-      {
-        "quantity": "1/2 cup",
-        "name": "mayonnaise",
-        "preparation": null
-      },
-      {
-        "quantity": "1",
-        "name": "lime",
-        "preparation": "juiced"
-      },
-      {
-        "quantity": "1",
-        "name": "jalapeno pepper",
-        "preparation": "minced"
-      },
-      {
-        "quantity": "1 teaspoon",
-        "name": "capers",
-        "preparation": "minced"
-      },
-      {
-        "quantity": "1/2 teaspoon",
-        "name": "dried oregano",
-        "preparation": null
-      },
-      {
-        "quantity": "1/2 teaspoon",
-        "name": "ground cumin",
-        "preparation": null
-      },
-      {
-        "quantity": "1/2 teaspoon",
-        "name": "dried dill weed",
-        "preparation": null
-      },
-      {
-        "quantity": "1 teaspoon",
-        "name": "ground cayenne pepper",
-        "preparation": null
-      },
-      {
-        "quantity": "1 quart",
-        "name": "oil",
-        "preparation": "for frying"
-      },
-      {
-        "quantity": "1 pound",
-        "name": "cod fillets",
-        "preparation": "cut into 2 to 3 ounce portions"
-      },
-      {
-        "quantity": "1 (12 ounce) package",
-        "name": "corn tortillas",
-        "preparation": null
-      },
-      {
-        "quantity": "1/2",
-        "name": "medium head cabbage",
-        "preparation": "finely shredded"
-      }
-    ], 
-    "directions": [
-      "To make beer batter: In a large bowl, combine flour, cornstarch, baking powder, and salt. Blend egg and beer, then quickly stir into the flour mixture (don't worry about a few lumps).",
-      "To make white sauce: In a medium bowl, mix together yogurt and mayonnaise. Gradually stir in fresh lime juice until consistency is slightly runny. Season with jalapeno, capers, oregano, cumin, dill, and cayenne.",
-      "Heat oil in deep-fryer to 375 degrees F (190 degrees C).",
-      "Dust fish pieces lightly with flour. Dip into beer batter, and fry until crisp and golden brown. Drain on paper towels. Lightly fry tortillas; not too crisp. To serve, place fried fish in a tortilla, and top with shredded cabbage, and white sauce."
-    ]
-  },
-  {
-    "name": "Double Decker Tacos",
-    "ingredients": [
-      {
-        "quantity": "1 pound",
-        "name": "ground beef",
-        "preparation": null
-      },
-      {
-        "quantity": "1 (1 ounce) packet",
-        "name": "taco seasoning mix",
-        "preparation": "divided"
-      },
-      {
-        "quantity": "1 (16 ounce) can",
-        "name": "refried beans",
-        "preparation": null
-      },
-      {
-        "quantity": "2/3 cup",
-        "name": "water",
-        "preparation": null
-      },
-      {
-        "quantity": "12",
-        "name": "taco shells",
-        "preparation": null
-      },
-      {
-        "quantity": "2",
-        "name": "avocado",
-        "preparation": ""
-      },
-      {
-        "quantity": "1 tablespoon",
-        "name": "sour cream",
-        "preparation": ""
-      },
-      {
-        "quantity": "1",
-        "name": "fresh lime",
-        "preparation": "juiced"
-      },
-      {
-        "quantity": "to taste",
-        "name": "salt and pepper",
-        "preparation": ""
-      },
-      {
-        "quantity": "12",
-        "name": "(7 inch) flour tortillas",
-        "preparation": ""
-      },
-      {
-        "quantity": "2 cups",
-        "name": "Cheddar cheese",
-        "preparation": "shredded"
-      },
-      {
-        "quantity": "1 cup",
-        "name": "lettuce",
-        "preparation": "shredded"
-      },
-      {
-        "quantity": "1",
-        "name": "large tomato",
-        "preparation": "chopped"
-      },
-      {
-        "quantity": "1/4",
-        "name": "red onion",
-        "preparation": "chopped"
-      },
-      {
-        "quantity": "1/2 cup ",
-        "name": "sour cream",
-        "preparation": null
-      }
-    ],
-    "directions": [
-      "Place the ground beef in a skillet over medium heat, and sprinkle about 3/4 of the packet of taco seasoning over the meat. Cook and stir the ground beef, breaking it up as it cooks, until the beef is browned and crumbly, 10 to 15 minutes. Drain the excess grease.",
-      "Mash the refried beans with the water in a small saucepan, and sprinkle with the rest of the seasoning packet. Heat the refried beans over low heat until simmering.",
-      "Preheat oven to 300 degrees F (150 degrees C). Place the crisp taco shells on a baking sheet, and warm them in the preheated oven for 3 to 5 minutes.",
-      "To make the guacamole, peel, seed, and mash the avocados in a bowl with 1 tablespoon of sour cream, the lime juice, and salt and pepper to taste, and set aside.",
-      "To build the tacos, spread each flour tortilla with about 2 tablespoons of heated refried beans. Wrap the tortilla gently around a crisp tortilla shell. Spread about 2 tablespoons of ground beef along the bottom of the crisp shell, and sprinkle about 2 tablespoons of shredded Cheddar cheese on top of the meat. Top the cheese with shredded lettuce, a sprinkle of chopped tomato and onion, and a dollop of sour cream and guacamole."
-    ]
-  }
+		"name": "Fish Tacos",
+		"ingredients": [{
+				"quantity": "1 cup",
+				"name": "all-purpose flour",
+				"preparation": null
+			},
+			{
+
+				"quantity": "2 tablespoons",
+				"name": "cornstarch",
+				"preparation": null
+			},
+			{
+
+				"quantity": "1 teaspoon",
+				"name": "baking powder",
+				"preparation": null
+			},
+			{
+
+				"quantity": "1/2 teaspoon",
+				"name": "salt",
+				"preparation": null
+			},
+			{
+				"quantity": "1",
+				"name": "egg",
+				"preparation": null
+			},
+			{
+				"quantity": "1 cup",
+				"name": "beer",
+				"preparation": null
+			},
+			{
+				"quantity": "1/2 cup",
+				"name": "plain yogurt",
+				"preparation": null
+			},
+			{
+				"quantity": "1/2 cup",
+				"name": "mayonnaise",
+				"preparation": null
+			},
+			{
+				"quantity": "1",
+				"name": "lime",
+				"preparation": "juiced"
+			},
+			{
+				"quantity": "1",
+				"name": "jalapeno pepper",
+				"preparation": "minced"
+			},
+			{
+				"quantity": "1 teaspoon",
+				"name": "capers",
+				"preparation": "minced"
+			},
+			{
+				"quantity": "1/2 teaspoon",
+				"name": "dried oregano",
+				"preparation": null
+			},
+			{
+				"quantity": "1/2 teaspoon",
+				"name": "ground cumin",
+				"preparation": null
+			},
+			{
+				"quantity": "1/2 teaspoon",
+				"name": "dried dill weed",
+				"preparation": null
+			},
+			{
+				"quantity": "1 teaspoon",
+				"name": "ground cayenne pepper",
+				"preparation": null
+			},
+			{
+				"quantity": "1 quart",
+				"name": "oil",
+				"preparation": "for frying"
+			},
+			{
+				"quantity": "1 pound",
+				"name": "cod fillets",
+				"preparation": "cut into 2 to 3 ounce portions"
+			},
+			{
+				"quantity": "1 (12 ounce) package",
+				"name": "corn tortillas",
+				"preparation": null
+			},
+			{
+				"quantity": "1/2",
+				"name": "medium head cabbage",
+				"preparation": "finely shredded"
+			}
+		],
+		"directions": [
+			"To make beer batter: In a large bowl, combine flour, cornstarch, baking powder, and salt. Blend egg and beer, then quickly stir into the flour mixture (don't worry about a few lumps).",
+			"To make white sauce: In a medium bowl, mix together yogurt and mayonnaise. Gradually stir in fresh lime juice until consistency is slightly runny. Season with jalapeno, capers, oregano, cumin, dill, and cayenne.",
+			"Heat oil in deep-fryer to 375 degrees F (190 degrees C).",
+			"Dust fish pieces lightly with flour. Dip into beer batter, and fry until crisp and golden brown. Drain on paper towels. Lightly fry tortillas; not too crisp. To serve, place fried fish in a tortilla, and top with shredded cabbage, and white sauce."
+		]
+	},
+	{
+		"name": "Double Decker Tacos",
+		"ingredients": [{
+				"quantity": "1 pound",
+				"name": "ground beef",
+				"preparation": null
+			},
+			{
+				"quantity": "1 (1 ounce) packet",
+				"name": "taco seasoning mix",
+				"preparation": "divided"
+			},
+			{
+				"quantity": "1 (16 ounce) can",
+				"name": "refried beans",
+				"preparation": null
+			},
+			{
+				"quantity": "2/3 cup",
+				"name": "water",
+				"preparation": null
+			},
+			{
+				"quantity": "12",
+				"name": "taco shells",
+				"preparation": null
+			},
+			{
+				"quantity": "2",
+				"name": "avocado",
+				"preparation": ""
+			},
+			{
+				"quantity": "1 tablespoon",
+				"name": "sour cream",
+				"preparation": ""
+			},
+			{
+				"quantity": "1",
+				"name": "fresh lime",
+				"preparation": "juiced"
+			},
+			{
+				"quantity": "to taste",
+				"name": "salt and pepper",
+				"preparation": ""
+			},
+			{
+				"quantity": "12",
+				"name": "(7 inch) flour tortillas",
+				"preparation": ""
+			},
+			{
+				"quantity": "2 cups",
+				"name": "Cheddar cheese",
+				"preparation": "shredded"
+			},
+			{
+				"quantity": "1 cup",
+				"name": "lettuce",
+				"preparation": "shredded"
+			},
+			{
+				"quantity": "1",
+				"name": "large tomato",
+				"preparation": "chopped"
+			},
+			{
+				"quantity": "1/4",
+				"name": "red onion",
+				"preparation": "chopped"
+			},
+			{
+				"quantity": "1/2 cup ",
+				"name": "sour cream",
+				"preparation": null
+			}
+		],
+		"directions": [
+			"Place the ground beef in a skillet over medium heat, and sprinkle about 3/4 of the packet of taco seasoning over the meat. Cook and stir the ground beef, breaking it up as it cooks, until the beef is browned and crumbly, 10 to 15 minutes. Drain the excess grease.",
+			"Mash the refried beans with the water in a small saucepan, and sprinkle with the rest of the seasoning packet. Heat the refried beans over low heat until simmering.",
+			"Preheat oven to 300 degrees F (150 degrees C). Place the crisp taco shells on a baking sheet, and warm them in the preheated oven for 3 to 5 minutes.",
+			"To make the guacamole, peel, seed, and mash the avocados in a bowl with 1 tablespoon of sour cream, the lime juice, and salt and pepper to taste, and set aside.",
+			"To build the tacos, spread each flour tortilla with about 2 tablespoons of heated refried beans. Wrap the tortilla gently around a crisp tortilla shell. Spread about 2 tablespoons of ground beef along the bottom of the crisp shell, and sprinkle about 2 tablespoons of shredded Cheddar cheese on top of the meat. Top the cheese with shredded lettuce, a sprinkle of chopped tomato and onion, and a dollop of sour cream and guacamole."
+		]
+	},
+	{
+		"name": "Tasty Lentil Tacos",
+		"ingredients": [{
+				"quantity": "1 teaspoon",
+				"name": "canola oil",
+				"preparation": null
+			},
+			{
+				"quantity": "2/3 cup",
+				"name": "onion",
+				"preparation": "finely chopped"
+			},
+			{
+				"quantity": "1",
+				"name": "small clove garlic",
+				"preparation": "minced"
+			},
+			{
+				"quantity": "2/3 cup",
+				"name": "dried lentils",
+				"preparation": "rinsed"
+			},
+			{
+				"quantity": "1 tablespoon",
+				"name": "taco seasoning",
+				"preparation": null
+			},
+			{
+				"quantity": "1 2/3 cups",
+				"name": "chicken broth",
+				"preparation": null
+			},
+			{
+				"quantity": "2/3 cup",
+				"name": "salsa",
+				"preparation": null
+			},
+			{
+				"quantity": "12",
+				"name": "large taco shells",
+				"preparation": null
+			}
+		],
+		"directions": [
+			"Heat oil in a skillet over medium heat; cook and stir onion and garlic until tender, about 5 minutes. Mix lentils and taco seasoning into onion mixture; cook and stir for 1 minute.",
+			"Pour chicken broth into skillet and bring to a boil. Reduce heat to low, cover the skillet, and simmer until lentils are tender, 25 to 30 minutes.",
+			"Uncover the skillet and cook until mixture is slightly thickened, 6 to 8 minutes. Mash lentils slightly; stir in salsa.",
+			"Serve about 1/4 cup lentil mixture in each taco shell."
+		]
+	},
+	{
+		"name": "Tasty Ground Turkey Tacos",
+		"ingredients": [{
+				"quantity": "1 1/2 pounds",
+				"name": "ground turkey",
+				"preparation": null
+			},
+			{
+				"quantity": "1 (8 ounce) can",
+				"name": "tomato sauce",
+				"preparation": null
+			},
+			{
+				"quantity": "8 fluid ounces",
+				"name": "water",
+				"preparation": null
+			},
+			{
+				"quantity": "1 (4 ounce) can",
+				"name": "green chile peppers",
+				"preparation": "diced"
+			},
+			{
+				"quantity": "1/2",
+				"name": "onion",
+				"preparation": "chopped"
+			},
+			{
+				"quantity": "1 (1.25 ounce) package",
+				"name": "taco seasoning mix",
+				"preparation": null
+			},
+			{
+				"quantity": "1 clove",
+				"name": "garlic",
+				"preparation": "minced"
+			},
+			{
+				"quantity": "12 (6 inch)",
+				"name": "corn tortillas",
+				"preparation": null
+			},
+			{
+				"quantity": "1 cup",
+				"name": "lettuce",
+				"preparation": "shredded"
+			},
+			{
+				"quantity": "1/2 cup",
+				"name": "cheddar cheese",
+				"preparation": null
+			},
+			{
+				"quantity": "1/2 cup",
+				"name": "tomatoes",
+				"preparation": "diced"
+			},
+			{
+				"quantity": "1/4 cup",
+				"name": "green onion",
+				"preparation": "chopped"
+			},
+			{
+				"quantity": "1/4 cup",
+				"name": "cilantro",
+				"preparation": "chopped"
+			},
+			{
+				"quantity": "2 tablespoon",
+				"name": "olives",
+				"preparation": "sliced"
+			}
+		],
+		"directions": [
+			"Preheat a large skillet over medium-high heat. Add turkey; cook and stir until browned, about 5 minutes. Add tomato sauce, water, green chile peppers, onion, taco seasoning, and garlic; simmer, stirring occasionally, until thickened, about 30 minutes.",
+			"Spoon turkey mixture over tortillas. Top with lettuce, Cheddar cheese, tomatoes, green onion, cilantro, and sliced olives."
+		]
+	},
+	{
+		"name": "Turkey and Yam Spicy Tacos",
+		"ingredients": [{
+				"quantity": "1",
+				"name": "yam",
+				"preparation": "peeled and diced"
+			},
+			{
+				"quantity": "1 tablespoon",
+				"name": "olive oil",
+				"preparation": null
+			},
+			{
+				"quantity": "3/4 pound",
+				"name": "ground turkey",
+				"preparation": null
+			},
+			{
+				"quantity": "1/2 cup",
+				"name": "sweet onion",
+				"preparation": "chopped"
+			},
+			{
+				"quantity": "1 clove",
+				"name": "garlic",
+				"preparation": "minced"
+			},
+			{
+				"quantity": "4",
+				"name": "medium jalapeno peppers",
+				"preparation": "seeded and minced"
+			},
+			{
+				"quantity": "1 tablespoon",
+				"name": "chili powder",
+				"preparation": null
+			},
+			{
+				"quantity": "1 teaspoon",
+				"name": "ground cumin",
+				"preparation": null
+			},
+			{
+				"quantity": "1/2 teaspoon",
+				"name": "Cajun seasoning",
+				"preparation": null
+			},
+			{
+				"quantity": "1/2 teaspoon",
+				"name": "salt",
+				"preparation": null
+			},
+			{
+				"quantity": "1/2 cup",
+				"name": "tomatillo salsa",
+				"preparation": null
+			},
+			{
+				"quantity": "1/2 cup",
+				"name": "fresh cilantro",
+				"preparation": "chopped"
+			},
+			{
+				"quantity": "16",
+				"name": "flour tortillas",
+				"preparation": "warm"
+			}
+		],
+		"directions": [
+			"Put the diced yam in a microwave-safe bowl; cook in the microwave until cooked through and fork-tender, stirring once, 5 to 7 minutes.",
+			"Coat the bottom of a large skillet with olive oil and place over medium heat; cook and stir the turkey until crumbled and evenly brown, 5 to 7 minutes. Stir the onion, garlic, and jalapeno pepper into the turkey and continue cooking until the onions begin to caramelize, 7 to 10 minutes. Season with the chili powder, cumin, Cajun seasoning, and salt. Pour the salsa over everything; fold the sweet potatoes into the mixture. Allow the mixture to cook until the excess moisture evaporates. Garnish with the cilantro. Serve with the warm tortillas."
+		]
+	},
+	{
+		"name": "Easy Keto Beef Tacos",
+		"ingredients": [{
+				"quantity": "2 cups",
+				"name": "Cheddar cheese",
+				"preparation": "shredded"
+			},
+			{
+				"quantity": "1 pound",
+				"name": "ground beef",
+				"preparation": null
+			},
+			{
+				"quantity": "1/2 package",
+				"name": "taco seasoning mix",
+				"preparation": null
+			},
+			{
+				"quantity": "1/2 teaspoon",
+				"name": "salt",
+				"preparation": null
+			},
+			{
+				"quantity": "1/4 teaspoon",
+				"name": "ground black pepper",
+				"preparation": null
+			},
+			{
+				"quantity": "1",
+				"name": "avocado",
+				"preparation": "diced"
+			},
+			{
+				"quantity": "1 cup",
+				"name": "lettuce",
+				"preparation": "shredded"
+			},
+			{
+				"quantity": "1/2 cup",
+				"name": "Cheddar cheese",
+				"preparation": "shredded"
+			},
+			{
+				"quantity": "1/2 cup",
+				"name": "tomatoes",
+				"preparation": "diced"
+			}
+		],
+		"directions": [
+			"Preheat oven to 350 degrees F (175 degrees C). Line 2 baking sheets with parchment paper or silicone mat.",
+			"Spread Cheddar cheese into four 6-inch circles, placed 2 inches apart.",
+			"Bake in the preheated oven until cheese melts and is lightly brown, 6 to 8 minutes.",
+			"Cool for 2 to 3 minutes before lifting with a spatula. Place over wooden spoon handle wrapped in aluminum foil balanced over 2 cups/cans. Let taco shells cool completely, about 10 minutes.",
+			"Cook beef in a skillet over medium-high heat until browned, stirring often to separate meat, about 7 minutes. Season with taco seasoning, salt, and pepper; cook for 1 minute more.",
+			"Divide beef mixture among cheese taco shells. Top with avocado, lettuce, Cheddar cheese, and tomatoes."
+		]
+	},
+	{
+		"name": "Spam Tacos",
+		"ingredients": [{
+				"quantity": "1 (12 ounce) can",
+				"name": "lite luncheon meat (such as Spam®)",
+				"preparation": null
+			},
+			{
+				"quantity": "1/2 (1.25 ounce) package",
+				"name": "taco seasoning mix",
+				"preparation": null
+			},
+			{
+				"quantity": "2 tablespoons",
+				"name": "water",
+				"preparation": null
+			},
+			{
+				"quantity": "8",
+				"name": "flour tortillas",
+				"preparation": null
+			},
+			{
+				"quantity": "8 ounces",
+				"name": "lettuce",
+				"preparation": "shredded"
+			},
+			{
+				"quantity": "8 ounces",
+				"name": "Cheddar cheese",
+				"preparation": "shredded"
+			},
+			{
+				"quantity": "2 (2.25 ounce) cans",
+				"name": "olives",
+				"preparation": "sliced, drained"
+			},
+			{
+				"quantity": "1 small",
+				"name": "tomato",
+				"preparation": "diced"
+			},
+			{
+				"quantity": "1 small",
+				"name": "onion",
+				"preparation": "diced"
+			}
+		],
+		"directions": [
+			"Shred luncheon meat onto a large plate using a cheese grater.",
+			"Spray a large skillet with cooking spray and heat over medium-high heat. Add shredded luncheon meat; cook and stir until it begins to brown, about 5 minutes. Stir in taco seasoning and water. Cook and stir until luncheon meat is evenly seasoned and lightly browned, 5 to 7 minutes. Reduce heat to low to keep warm.",
+			"Spray another skillet with cooking spray and heat over medium-high heat. Place 1 tortilla in the skillet and cook until heated through, about 30 seconds per side. Repeat with remaining tortillas.",
+			"Top warm tortillas with luncheon meat, lettuce, Cheddar cheese, olives, tomato, and onion."
+		]
+	},
+	{
+		"name": "Irish Tacos",
+		"ingredients": [{
+				"quantity": "2 cups",
+				"name": "plain yogurt",
+				"preparation": null
+			},
+			{
+				"quantity": "1/2 cup",
+				"name": "mayonnaise",
+				"preparation": null
+			},
+			{
+				"quantity": "1 ",
+				"name": "lime",
+				"preparation": "juiced"
+			},
+			{
+				"quantity": "2 tablespoons",
+				"name": "fresh cilantro",
+				"preparation": "chopped"
+			},
+			{
+				"quantity": "1 pinch",
+				"name": "cayenne pepper",
+				"preparation": null
+			},
+			{
+				"quantity": "to taste",
+				"name": "salt",
+				"preparation": null
+			},
+			{
+				"quantity": "1 1/2 cups",
+				"name": "corned beef",
+				"preparation": "shredded"
+			},
+			{
+				"quantity": "8",
+				"name": "flour tortillas",
+				"preparation": null
+			},
+			{
+				"quantity": "1 pound",
+				"name": "prepared coleslaw",
+				"preparation": null
+			}
+		],
+		"directions": [
+			"Mix together the yogurt, mayonnaise, lime juice, cilantro, cayenne pepper, and salt in a bowl until smooth.",
+			"Place the corned beef in a saucepan over medium-low heat just until hot. Place a tortilla into a heavy skillet over medium heat until hot and just beginning to show brown spots, about 30 seconds per side. To assemble, arrange about 2 tablespoons of coleslaw on a tortilla; follow with 3 tablespoons of corned beef. Drizzle with 2 tablespoons of the yogurt sauce; roll up to serve."
+		]
+	},
+	{
+		"name": "Lobster Tacos",
+		"ingredients": [{
+				"quantity": "4",
+				"name": "lobster tails",
+				"preparation": null
+			},
+			{
+				"quantity": "to taste",
+				"name": "salt and ground black pepper",
+				"preparation": null
+			},
+			{
+				"quantity": "1/4 cup",
+				"name": "red guajillo chile sauce (such as Herdez®)",
+				"preparation": null
+			},
+			{
+				"quantity": "1",
+				"name": "tomato",
+				"preparation": "diced, divided"
+			},
+			{
+				"quantity": "3",
+				"name": "green onions",
+				"preparation": "chopped"
+			},
+			{
+				"quantity": "1/4 cup",
+				"name": "Colby-Monterey Jack cheese",
+				"preparation": "shredded"
+			},
+			{
+				"quantity": "8",
+				"name": "flour tortillas",
+				"preparation": null
+			},
+			{
+				"quantity": "1",
+				"name": "small avocado",
+				"preparation": "sliced"
+			},
+			{
+				"quantity": "1/2 cup",
+				"name": "lettuce",
+				"preparation": "shredded"
+			}
+		],
+		"directions": [
+			"Preheat a lightly oiled grill pan over medium-high heat.",
+			"Cut lobster tails in half lengthwise along the spine. Sprinkle with salt and black pepper. Grill until slightly charred and shells are bright in color, about 5 minutes. Remove lobster meat from the shells and chop coarsely.",
+			"Combine chile sauce, 1/2 the tomato, and green onions in a large bowl. Mix in chopped lobster meat.",
+			"Divide Colby-Monterey Jack cheese evenly among tortillas. Top each tortilla with some of the lobster mixture. Fold tacos over and grill until cheese melts and tortillas are lightly charred, about 1 minute per side. Garnish with remaining tomato, avocado, and shredded lettuce."
+		]
+	},
+	{
+		"name": "Easy Tacos",
+		"ingredients": [{
+				"quantity": "2 pound ",
+				"name": "ground beef",
+				"preparation": null
+			},
+			{
+				"quantity": "1 (14.5 ounce) carton",
+				"name": "Campbell's® Mexican Style Tomato Soup",
+				"preparation": null
+			},
+			{
+				"quantity": "12",
+				"name": "large taco shells",
+				"preparation": "warmed"
+			},
+			{
+				"quantity": "3/4 cup",
+				"name": "lettuce",
+				"preparation": "shredded"
+			},
+			{
+				"quantity": "1/3 cup",
+				"name": "Cheddar cheese",
+				"preparation": "shredded"
+			},
+			{
+				"quantity": "3/4 cup",
+				"name": "tomato",
+				"preparation": "diced"
+			}
+		],
+		"directions": [
+			"Cook the beef in a 12-inch skillet over medium-high heat until the beef is well browned, stirring often to separate meat. Pour off any fat. Season with salt and black pepper.",
+			"Stir the soup in the skillet and heat to a boil. Reduce the heat to low. Cook for 5 minutes or until the soup is reduced, stirring often.",
+			"Divide the beef mixture among the taco shells. Top with the lettuce, tomato and cheese."
+		]
+	},
+	{
+		"name": "Spaghetti Tacos",
+		"ingredients": [{
+				"quantity": "1 (16 ounce) package",
+				"name": "angel hair pasta",
+				"preparation": null
+			},
+			{
+				"quantity": "1 (28 ounce) jar",
+				"name": "spaghetti sauce",
+				"preparation": null
+			},
+			{
+				"quantity": "1 package ",
+				"name": "crisp taco shells",
+				"preparation": null
+			},
+			{
+				"quantity": "1/4 cup",
+				"name": "Parmesan cheese",
+				"preparation": "grated"
+			}
+		],
+		"directions": [
+			"Fill a large pot with lightly salted water and bring to a rolling boil over high heat. Once the water is boiling, stir in the angel hair pasta, and return to a boil. Cook the pasta uncovered, stirring occasionally, until the pasta has cooked through, but is still firm to the bite, 4 to 5 minutes. Drain well in a colander set in the sink.",
+			"Return the pasta to the pot, and pour the sauce over the pasta; mix thoroughly until reheated. Place the taco shells into a microwave oven in a stack, and fan the stack out to a circular shape so the edges of the taco shells overlap slightly. Cook on High until warmed and crisp, 30 to 45 seconds. Fill the warm taco shells with the pasta mixture. Sprinkle pasta filling of each shell with about 1 teaspoon of Parmesan cheese to serve."
+		]
+	},
+	{
+		"name": "Steak Taco",
+		"ingredients": [{
+				"quantity": "3/4 pound",
+				"name": "flank steak",
+				"preparation": "trimmed"
+			},
+			{
+				"quantity": "1/2 teaspoon",
+				"name": "freshly ground black pepper",
+				"preparation": null
+			},
+			{
+				"quantity": "1 tablespoon",
+				"name": "fresh lime juice",
+				"preparation": null
+			},
+			{
+				"quantity": "1/2 tablespoon",
+				"name": "olive oil",
+				"preparation": null
+			},
+			{
+				"quantity": "2 cloves",
+				"name": "garlic",
+				"preparation": "minced"
+			},
+			{
+				"quantity": "1/4 teaspoon",
+				"name": "kosher salt",
+				"preparation": null
+			},
+			{
+				"quantity": "1 cup",
+				"name": "romaine lettuce",
+				"preparation": "chopped"
+			},
+			{
+				"quantity": "1 cup",
+				"name": "red cabbage",
+				"preparation": "chopped"
+			},
+			{
+				"quantity": "1",
+				"name": "avocado",
+				"preparation": "sliced"
+			},
+			{
+				"quantity": "1 (16 ounce) jar",
+				"name": "pickled red onions",
+				"preparation": null
+			},
+			{
+				"quantity": "for garnish",
+				"name": "scallions",
+				"preparation": "grilled"
+			},
+			{
+				"quantity": "6",
+				"name": "corn tortillas",
+				"preparation": null
+			}
+		],
+		"directions": [
+			"Sprinkle steak with pepper, pressing to adhere.",
+			"Heat grill pan over medium-high heat. Coat pan with cooking spray. Add steak to pan; grill 6 minutes on each side or until desired degree of doneness. Place steak on a cutting board; let stand 5 minutes.",
+			"Cut steak diagonally across grain into thin slices. Mix lime juice, olive oil and garlic and drizzle over steak; sprinkle with salt.",
+			"Heat tortillas on grill pan coated with cooking spray 20 seconds on each side or until lightly charred.",
+			"Heat scallions on grill until lightly charred.",
+			"Divide steak among tortillas.",
+			"Top with romaine, red cabbage, avocado and pickled red onions.",
+			"Garnish with grilled scallion."
+		]
+	}
 ]
