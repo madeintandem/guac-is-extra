@@ -754,5 +754,502 @@
 			"Top with romaine, red cabbage, avocado and pickled red onions.",
 			"Garnish with grilled scallion."
 		]
+	},
+	{
+		"name": "Pork Tacos",
+		"ingredients": [{
+				"quantity": "1 pound",
+				"name": "ground pork",
+				"preparation": null
+			},
+			{
+				"quantity": "3 medium",
+				"name": "red potatoes",
+				"preparation": null
+			},
+			{
+				"quantity": "to taste",
+				"name": "salt and pepper",
+				"preparation": null
+			},
+			{
+				"quantity": "8",
+				"name": "large taco shells",
+				"preparation": null
+			},
+			{
+				"quantity": "1 cup",
+				"name": "iceberg lettuce",
+				"preparation": "shredded"
+			},
+			{
+				"quantity": "1 cup",
+				"name": "fresh tomato",
+				"preparation": "chopped"
+			},
+			{
+				"quantity": "1/4 cup",
+				"name": "sour cream",
+				"preparation": null
+			}
+		],
+		"directions": [
+			"Place ground pork into a large skillet. Lightly brown, but don't completely cook. Shred the potatoes like hash browns. Add shredded potatoes to pork, mix together and add just enough water to cover the bottom of the skillet. Cover skillet and let simmer until potatoes are soft, 15 to 20 minutes. Season with salt and pepper to taste. Spoon pork mixture into shells and garnish with lettuce, tomatoes, sour cream and any other toppings desired."
+		]
+	},
+	{
+		"name": "Pumpkin Tacos",
+		"ingredients": [{
+				"quantity": "2 tablespoons",
+				"name": "vegetable oil",
+				"preparation": null
+			},
+			{
+				"quantity": "2 cups",
+				"name": "fresh pumpkin",
+				"preparation": "cubed"
+			},
+			{
+				"quantity": "1/2 cup",
+				"name": "vegetable stock",
+				"preparation": null
+			},
+			{
+				"quantity": "1 tablespoon",
+				"name": "ground cumin",
+				"preparation": null
+			},
+			{
+				"quantity": "to taste",
+				"name": "salt and ground black pepper",
+				"preparation": null
+			},
+			{
+				"quantity": "12",
+				"name": "flour or corn tortillas",
+				"preparation": "warmed"
+			},
+			{
+				"quantity": "3/4 cup",
+				"name": "fresh tomato",
+				"preparation": "diced"
+			},
+			{
+				"quantity": "1/2 cup",
+				"name": "onion",
+				"preparation": "diced"
+			},
+			{
+				"quantity": "1/2 cup",
+				"name": "ripe avocado",
+				"preparation": "diced"
+			},
+			{
+				"quantity": "3 tablespoons",
+				"name": "fresh cilantro",
+				"preparation": "chopped"
+			}
+		],
+		"directions": [
+			"Heat the oil in a large skillet over medium heat. Cook the pumpkin in the heated oil 2 to 3 minutes. Stir in the vegetable stock, cumin, salt, and pepper. Cook until the pumpkin cubes are easily pierced through with a fork, 5 to 7 minutes. Fill warm tortillas with pumpkin; top with tomato, onion, avocado, and cilantro as desired."
+		]
+	},
+	{
+		"name": "Bacon Tacos",
+		"ingredients": [{
+				"quantity": "1 cup",
+				"name": "water",
+				"preparation": null
+			},
+			{
+				"quantity": "1/2 cup ",
+				"name": "white rice",
+				"preparation": null
+			},
+			{
+				"quantity": "5 slices",
+				"name": "bacon",
+				"preparation": null
+			},
+			{
+				"quantity": "1 (14 ounce) can",
+				"name": "black beans",
+				"preparation": null
+			},
+			{
+				"quantity": "2 teaspoons",
+				"name": "taco seasoning mix",
+				"preparation": "divided"
+			},
+			{
+				"quantity": "1 teaspoon",
+				"name": "vegetable oil",
+				"preparation": null
+			},
+			{
+				"quantity": "5",
+				"name": "flour tortillas",
+				"preparation": null
+			},
+			{
+				"quantity": "2",
+				"name": "tomatoes",
+				"preparation": "diced"
+			},
+			{
+				"quantity": "1",
+				"name": "green bell pepper",
+				"preparation": "chopped"
+			},
+			{
+				"quantity": "1 cup",
+				"name": "Cheddar cheese",
+				"preparation": "shredded"
+			}
+		],
+		"directions": [
+			"Bring water and rice to a boil in a saucepan. Reduce heat to medium-low, cover, and simmer until the rice is tender and liquid has been absorbed, 20 to 25 minutes.",
+			"Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned and crispy, about 10 minutes. Drain the bacon slices on paper towels, retaining the drippings in the skillet. Crumble bacon.",
+			"Preheat oven to 250 degrees F (120 degrees C).",
+			"Combine beans and 1 teaspoon taco seasoning mix in a saucepan over low heat; cook and stir until warmed, about 5 minutes.",
+			"Cook and stir the cooked rice and 1 teaspoon taco seasoning mix in the reserved bacon drippings until evenly coated, 2 to 3 minutes.",
+			"Brush vegetable oil over each tortilla and arrange tortillas on a baking sheet.",
+			"Bake tortillas in the preheated oven until warmed, about 5 minutes.",
+			"Place black bean mixture, rice mixture, bacon, tomatoes, green bell peppers, and Cheddar cheese each in separate bowls; serve with tortillas."
+		]
+	},
+	{
+		"name": "Eggplant Tacos",
+		"ingredients": [{
+				"quantity": "1/4 cup",
+				"name": "olive oil",
+				"preparation": "divided"
+			},
+			{
+				"quantity": "1",
+				"name": "small onion",
+				"preparation": "chopped"
+			},
+			{
+				"quantity": "2 tablespoons",
+				"name": "lemon juice",
+				"preparation": null
+			},
+			{
+				"quantity": "2 cloves",
+				"name": "fresh garlic",
+				"preparation": "minced"
+			},
+			{
+				"quantity": "1/4",
+				"name": "jalapeno pepper",
+				"preparation": "minced"
+			},
+			{
+				"quantity": "1",
+				"name": "eggplant",
+				"preparation": "cut into cubes"
+			},
+			{
+				"quantity": "2 tablespoons",
+				"name": "ground cumin",
+				"preparation": null
+			},
+			{
+				"quantity": "1 tablespoon",
+				"name": "paprika",
+				"preparation": null
+			},
+			{
+				"quantity": "1 1/2 teaspoons",
+				"name": "chili powder",
+				"preparation": null
+			},
+			{
+				"quantity": "1 teaspoon",
+				"name": "ground black pepper",
+				"preparation": null
+			},
+			{
+				"quantity": "1/2 teaspoon",
+				"name": "seasoned salt (such as Johnny's Seasoning Salt®)",
+				"preparation": null
+			},
+			{
+				"quantity": "4",
+				"name": "taco shells",
+				"preparation": null
+			}
+		],
+		"directions": [
+			"Heat 2 tablespoons olive oil in a large skillet over medium-high heat. Stir onion, lemon juice, garlic, and jalapeno pepper into skillet; bring to a simmer and cook until onions soften, about 3 minutes.",
+			"Stir eggplant, cumin, paprika, chili powder, black pepper, and seasoned salt into onion mixture; drizzle remaining olive oil over the top. Cook, stirring occasionally, until eggplant reduces in size and softens, about 15 minutes. Spoon eggplant mixture into tortilla shells."
+		]
+	},
+	{
+		"name": "Tongue Tacos",
+		"ingredients": [{
+				"quantity": "1",
+				"name": "beef tongue",
+				"preparation": null
+			},
+			{
+				"quantity": "2",
+				"name": "medium tomatoes",
+				"preparation": "diced"
+			},
+			{
+				"quantity": "1",
+				"name": "onion",
+				"preparation": "diced"
+			},
+			{
+				"quantity": "1 bunch",
+				"name": "fresh cilantro",
+				"preparation": "chopped"
+			},
+			{
+				"quantity": "1 tablespoon",
+				"name": "vegetable oil",
+				"preparation": null
+			},
+			{
+				"quantity": "to taste",
+				"name": "salt and pepper",
+				"preparation": null
+			},
+			{
+				"quantity": "6",
+				"name": "corn tortillas",
+				"preparation": null
+			},
+			{
+				"quantity": "3 tablespoons",
+				"name": "lemon juice",
+				"preparation": null
+			}
+		],
+		"directions": [
+			"Simmer the tongue in water to cover until no longer pink, about 50 minutes per pound of tongue. Remove from water and let rest until cool enough to handle. Peel the skin off the tongue, trim the gristle, and cut into bite-size pieces.",
+			"While the tongue is cooling, combine tomatoes, onion and cilantro in a medium bowl. Mix well and set aside.",
+			"In large skillet, heat oil over medium heat. Cook tongue with salt and pepper until heated through and slightly colored, 5 to 10 minutes. Drain.",
+			"In a small skillet, heat tortillas 1 minute on each side. To assemble tacos, layer tongue and tomato mixture inside a folded tortilla and sprinkle with lemon juice. Serve immediately."
+		]
+	},
+	{
+		"name": "Cowboy Tacos",
+		"ingredients": [{
+				"quantity": "1 pound",
+				"name": "pork stew meat",
+				"preparation": "cubed or minced"
+			},
+			{
+				"quantity": "1 (1.25 ounce) package",
+				"name": "taco seasoning mix",
+				"preparation": null
+			},
+			{
+				"quantity": "1 tablespoon vegetable oil",
+				"name": "",
+				"preparation": null
+			},
+			{
+				"quantity": "1 cup chunky salsa",
+				"name": "",
+				"preparation": null
+			},
+			{
+				"quantity": "1 (16 ounce) can",
+				"name": "chili beans",
+				"preparation": "undrained"
+			},
+			{
+				"quantity": "1/3 cup",
+				"name": "apricot preserves",
+				"preparation": null
+			},
+			{
+				"quantity": "12",
+				"name": "large taco shells",
+				"preparation": null
+			},
+			{
+				"quantity": "1 (10 ounce) can",
+				"name": "ripe olives",
+				"preparation": "sliced"
+			}
+		],
+		"directions": [
+			"In a large resealable bag, toss pork meat with the taco seasoning mix until coated. Heat oil in a skillet over medium-high heat. Fry the seasoned pork in the hot oil, stirring occasionally until pork is no longer pink.",
+			"Stir the beans, salsa and apricot preserves into the skillet with the pork. Reduce heat to low, and simmer until heated through, about 10 minutes.",
+			"Spoon 1/3 cup of the pork mixture into each taco shell, and top with sliced olives."
+		]
+	},
+	{
+		"name": "Nacho Tacos",
+		"ingredients": [{
+				"quantity": "1 pound",
+				"name": "ground beef",
+				"preparation": null
+			},
+			{
+				"quantity": "1",
+				"name": "medium onion",
+				"preparation": "chopped"
+			},
+			{
+				"quantity": "1/2 teaspoon",
+				"name": "chili powder",
+				"preparation": null
+			},
+			{
+				"quantity": "1 (10.75 ounce) can",
+				"name": "Campbell's® Condensed Fiesta Nacho Cheese Soup",
+				"preparation": null
+			},
+			{
+				"quantity": "8",
+				"name": "taco shells",
+				"preparation": "warmed"
+			},
+			{
+				"quantity": "1 cup",
+				"name": "lettuce",
+				"preparation": "shredded"
+			},
+			{
+				"quantity": "1",
+				"name": "medium tomato",
+				"preparation": "chopped"
+			}
+		],
+		"directions": [
+			"Cook the beef, onion and chili powder in a 10-inch skillet over medium-high heat until the beef is well browned, stirring often to separate meat. Pour off any fat.",
+			"Stir 1/2 cup soup in the skillet and cook until the mixture is hot and bubbling.",
+			"Heat the remaining soup in a 1-quart saucepan over medium-high heat until hot and bubbling. Spoon the beef mixture into the taco shells. Top with the soup, lettuce and tomato."
+		]
+	},
+	{
+		"name": "Italian Tacos",
+		"ingredients": [{
+				"quantity": "1/2 pound",
+				"name": "Italian sausage",
+				"preparation": null
+			},
+			{
+				"quantity": "1 pound",
+				"name": "ground beef",
+				"preparation": null
+			},
+			{
+				"quantity": "1 (16 ounce) jar",
+				"name": "tomato pasta sauce",
+				"preparation": null
+			},
+			{
+				"quantity": "1 teaspoon",
+				"name": "sugar",
+				"preparation": null
+			},
+			{
+				"quantity": "16",
+				"name": "large taco shells",
+				"preparation": "heated"
+			},
+			{
+				"quantity": "3 cups",
+				"name": "mozzarella cheese",
+				"preparation": "shredded"
+			},
+			{
+				"quantity": "1 tablespoon",
+				"name": "dried Italian seasoning",
+				"preparation": null
+			}
+		],
+		"directions": [
+			"Combine the ground beef and Italian sausage in a large heavy skillet. Cook over medium heat until evenly browned. Drain off excess grease, and season meat with Italian seasoning.",
+			"Heat the pasta sauce in a saucepan over medium heat until heated through. When the sauce is warm, stir in the sugar.",
+			"Fill taco shells with the meat mixture, spoon pasta sauce over, and top with mozzarella cheese."
+		]
+	},
+	{
+		"name": "Potato Tacos",
+		"ingredients": [{
+				"quantity": "5",
+				"name": "large potatoes",
+				"preparation": "peeled and chopped"
+			},
+			{
+				"quantity": "1/4 cup",
+				"name": "milk",
+				"preparation": null
+			},
+			{
+				"quantity": "1 cup",
+				"name": "green onions",
+				"preparation": "chopped"
+			},
+			{
+				"quantity": "1 1/2 cups",
+				"name": "Cheddar cheese",
+				"preparation": "shredded"
+			},
+			{
+				"quantity": "1 (12 ounce) package",
+				"name": "corn tortillas",
+				"preparation": null
+			},
+			{
+				"quantity": "1 cup",
+				"name": "Ranch-style salad dressing",
+				"preparation": null
+			}
+		],
+		"directions": [
+			"Bring a large pot of salted water to a boil. Add potatoes and cook until tender, about 15 minutes.",
+			"Drain potatoes and transfer to a large bowl. Pour in milk and mash until smooth. Stir in onions and cheese; mix well. Spoon 2 heaping tablespoons of potato mixture into the center of each tortilla and fold in half; secure with a toothpick.",
+			"In a large skillet add enough oil to reach 1 inch in depth and heat over medium-high heat. Fry tortillas until crispy. Serve with ranch dressing for dipping."
+		]
+	},
+	{
+		"name": "Avocado Tacos",
+		"ingredients": [{
+				"quantity": "3",
+				"name": "avocados",
+				"preparation": "peeled, pitted, and mashed"
+			},
+			{
+				"quantity": "1/4 cup",
+				"name": "onions",
+				"preparation": "diced"
+			},
+			{
+				"quantity": "1/4 teaspoon",
+				"name": "garlic salt",
+				"preparation": null
+			},
+			{
+				"quantity": "12",
+				"name": "corn tortillas",
+				"preparation": null
+			},
+			{
+				"quantity": "1 bunch",
+				"name": "fresh cilantro leaves",
+				"preparation": "finely chopped"
+			},
+			{
+				"quantity": "to taste",
+				"name": "jalapeno pepper sauce",
+				"preparation": null
+			}
+		],
+		"directions": [
+			"Preheat oven to 325 degrees F (165 degrees C).",
+			"In a medium bowl, mix avocados, onions, and garlic salt.",
+			"Arrange corn tortillas in a single layer on a large baking sheet, and place in the preheated oven 2 to 5 minutes, until heated through.",
+			"Spread tortillas with the avocado mixture. Garnish with cilantro and sprinkle with jalapeno pepper sauce."
+		]
 	}
 ]
