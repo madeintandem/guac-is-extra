@@ -22,7 +22,7 @@ app.get("/", function (req, res) {
   }
 
   if (!!excludeIngredients) {
-    parsedIngredients = includeIngredients.split(",");
+    parsedIngredients = excludeIngredients.split(",");
     returnRecipes = filter.byExcludedIngredients(returnRecipes, parsedIngredients);
   }
 
